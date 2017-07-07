@@ -13,5 +13,5 @@ fs.log("lof");
 ```
 fs.error(content)
 ```javascript
-fs.error("Lof!');
+fs.error("Lof!");
 ```
